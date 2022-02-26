@@ -184,6 +184,17 @@ p {
   .title-img {
     position: static;
     transform: rotate(0);
+    width: 80%;
+  }
+
+  .navbar-brand {
+    font-family: Ubuntu;
+    font-size: 3.5rem;
+    font-weight: bold;
+  }
+
+  .navbar {
+    margin-top: 0;
   }
 
   #title {
